@@ -1,0 +1,30 @@
+.container{
+	width: 700px;
+  	background-size:40px 40px;
+}
+
+.column{
+	display:flex;
+	flex-direction: column;
+  	justify-content: center;
+  	/*background-color: #7AD0EE;*/
+}
+
+.boxBottom{
+	border-bottom: 3px solid #00449e;
+	margin: 5px;
+	margin-top: 0px;
+}
+.box{
+	border: 3px solid #00449e;
+	margin: 5px;
+	margin-top: 0px;
+	height: 50%;
+}
+
+.end{
+  display:flex;
+  justify-content: flex-end;
+
+}
+
