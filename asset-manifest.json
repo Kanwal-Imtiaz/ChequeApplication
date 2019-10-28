@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ChequeApplication/static/css/main.4efdacbd.chunk.css",
+    "main.js": "/ChequeApplication/static/js/main.34eceb3c.chunk.js",
+    "main.js.map": "/ChequeApplication/static/js/main.34eceb3c.chunk.js.map",
+    "runtime-main.js": "/ChequeApplication/static/js/runtime-main.b8e9c884.js",
+    "runtime-main.js.map": "/ChequeApplication/static/js/runtime-main.b8e9c884.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/ChequeApplication/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.147860cc.chunk.js": "/ChequeApplication/static/js/2.147860cc.chunk.js",
+    "static/js/2.147860cc.chunk.js.map": "/ChequeApplication/static/js/2.147860cc.chunk.js.map",
+    "index.html": "/ChequeApplication/index.html",
+    "precache-manifest.6925861c8998ef8aa1460bc4c2bd351e.js": "/ChequeApplication/precache-manifest.6925861c8998ef8aa1460bc4c2bd351e.js",
+    "service-worker.js": "/ChequeApplication/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/ChequeApplication/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4efdacbd.chunk.css.map": "/ChequeApplication/static/css/main.4efdacbd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e9c884.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.147860cc.chunk.js",
+    "static/css/main.4efdacbd.chunk.css",
+    "static/js/main.34eceb3c.chunk.js"
+  ]
+}
